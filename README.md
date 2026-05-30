@@ -24,12 +24,12 @@
  4. Субстрат: П-нитрофенилбутират (pNPB)
 # Перечень использованных инструментов и программ:
 1) Python 3.8
-2) Conda 26.1.1
-3) RCSB PDB
-4) PyMOL
-5) AutoDock Vina v1.2.5
-6) AutoDock Tools
-7) Linux (Ubuntu 24.04.3)
+2) Linux (Ubuntu 24.04.3)
+3) Conda 26.1.1
+4) RCSB PDB (сайт)
+5) PyMOL
+6) AutoDock Vina v1.2.5
+7) AutoDock Tools
 8) веб-серверы DUET и mCSM
 # Описание этапов:
  ## *1. Сбор и подготовка данных:*
