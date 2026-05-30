@@ -1,0 +1,17 @@
+receptor = 1tca_receptor.pdbqt
+ligand = ligand_pNPB.pdbqt
+
+center_x = -8.136
+center_y = 21.862
+center_z = 14.832
+
+size_x = 25
+size_y = 25
+size_z = 25
+
+num_modes = 9
+exhaustiveness = 64
+energy_range = 3
+out = docked_pNPB1.pdbqt
+
+
